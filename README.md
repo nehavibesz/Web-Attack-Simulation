@@ -1,6 +1,5 @@
 # Web-Attack-Simulation
 Cybersecurity lab demonstrating web attack simulations and traffic analysis using DVWA, Wireshark, and Burp Suite.
-# Web Attack Simulation
 
 ## Overview
 This project demonstrates web application attack simulations in a controlled lab environment using DVWA (Damn Vulnerable Web Application).
